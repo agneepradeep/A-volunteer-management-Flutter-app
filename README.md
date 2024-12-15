@@ -102,7 +102,7 @@ Follow these steps to set up the project on your local machine:
 
 You can download the latest release of the app directly from the **Releases** section of this repository.
 
-1. Go to the [Releases page](https://github.com/agneepradeep/A-volunteer-management-Flutter-app.git/releases).
+1. Go to the [Releases page](https://github.com/agneepradeep/A-volunteer-management-Flutter-app/releases)).
 2. Download the **`volunteer_app-release.apk`** file.
 3. Install the APK on your Android device.
 
